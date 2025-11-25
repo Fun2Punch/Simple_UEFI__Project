@@ -1,0 +1,99 @@
+ BootSelector
+
+ Timestamp is 69239f29 (Mon Nov 24 08:56:25 2025)
+
+ Preferred load address is 0000000000000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000034H .text                   CODE
+ 0001:00000034 00001126H .text$mn                CODE
+ 0002:00000000 00000544H .rdata                  DATA
+ 0002:00000544 00000018H .rdata$voltmd           DATA
+ 0002:0000055c 00000160H .rdata$zzzdbg           DATA
+ 0003:00000000 00000008H .data                   DATA
+ 0003:00000008 00000028H .bss                    DATA
+ 0004:00000000 00000060H .pdata                  DATA
+ 0005:00000000 00000060H .xdata                  DATA
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0000:00000000       __AbsoluteZero             0000000000000000     <absolute>
+ 0000:00000000       __arm64x_extra_rfe_table   0000000000000000     <absolute>
+ 0000:00000000       __arm64x_extra_rfe_table_size 0000000000000000     <absolute>
+ 0000:00000000       __arm64x_native_entrypoint 0000000000000000     <absolute>
+ 0000:00000000       __arm64x_redirection_metadata 0000000000000000     <absolute>
+ 0000:00000000       __arm64x_redirection_metadata_count 0000000000000000     <absolute>
+ 0000:00000000       __dynamic_value_reloc_table 0000000000000000     <absolute>
+ 0000:00000000       __enclave_config           0000000000000000     <absolute>
+ 0000:00000000       __guard_check_icall_a64n_fptr 0000000000000000     <absolute>
+ 0000:00000000       __guard_eh_cont_count      0000000000000000     <absolute>
+ 0000:00000000       __guard_eh_cont_table      0000000000000000     <absolute>
+ 0000:00000000       __guard_fids_count         0000000000000000     <absolute>
+ 0000:00000000       __guard_fids_table         0000000000000000     <absolute>
+ 0000:00000000       __guard_flags              0000000000000000     <absolute>
+ 0000:00000000       __guard_iat_count          0000000000000000     <absolute>
+ 0000:00000000       __guard_iat_table          0000000000000000     <absolute>
+ 0000:00000000       __guard_longjmp_count      0000000000000000     <absolute>
+ 0000:00000000       __guard_longjmp_table      0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_delayload_iat 0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_delayload_iat_copy 0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_iat     0000000000000000     <absolute>
+ 0000:00000000       __hybrid_auxiliary_iat_copy 0000000000000000     <absolute>
+ 0000:00000000       __hybrid_code_map          0000000000000000     <absolute>
+ 0000:00000000       __hybrid_code_map_count    0000000000000000     <absolute>
+ 0000:00000000       __hybrid_image_info_bitfield 0000000000000000     <absolute>
+ 0000:00000000       __x64_code_ranges_to_entry_points 0000000000000000     <absolute>
+ 0000:00000000       __x64_code_ranges_to_entry_points_count 0000000000000000     <absolute>
+ 0000:00000000       __ImageBase                0000000000000000     <linker-defined>
+ 0001:00000000       __report_rangecheckfailure 0000000000001000     StackCheckLib:CheckCookieMsvc.obj
+ 0001:00000006       __GSHandlerCheck           0000000000001006     StackCheckLib:CheckCookieMsvc.obj
+ 0001:0000000c       __security_check_cookie    000000000000100c     StackCheckLib:CheckCookieMsvc.obj
+ 0001:00000020       TriggerStackCookieInterrupt 0000000000001020     StackCheckLib:StackCookieInterrupt.obj
+ 0001:00000030       CpuPause                   0000000000001030     BaseLib:CpuPause.obj
+ 0001:00000034       _ModuleEntryPoint          0000000000001034 f   UefiDriverEntryPoint:DriverEntryPoint.obj
+ 0001:00000088       DebugPrint                 0000000000001088 f   BaseDebugLibNull:DebugLib.obj
+ 0001:00000094       DebugPrintEnabled          0000000000001094 f   BaseDebugLibNull:DebugLib.obj
+ 0001:00000094       DebugPrintLevelEnabled     0000000000001094 f   BaseDebugLibNull:DebugLib.obj
+ 0001:00000098       InternalPrint              0000000000001098 f   UefiLib:UefiLibPrint.obj
+ 0001:0000013c       Print                      000000000000113c f   UefiLib:UefiLibPrint.obj
+ 0001:0000016c       CpuDeadLoop                000000000000116c f   BaseLib:CpuDeadLoop.obj
+ 0001:0000019c       StrnLenS                   000000000000119c f   BaseLib:SafeString.obj
+ 0001:000001c8       StackCheckFailureHook      00000000000011c8 f   StackCheckFailureHookLibNull:StackCheckFailureHook.obj
+ 0001:000001cc       BasePrintLibFillBuffer     00000000000011cc f   BasePrintLib:PrintLibInternal.obj
+ 0001:00000200       BasePrintLibSPrintMarker   0000000000001200 f   BasePrintLib:PrintLibInternal.obj
+ 0001:000010a8       BasePrintLibSPrint         00000000000020a8 f   BasePrintLib:PrintLibInternal.obj
+ 0001:000010d0       InternalAllocatePool       00000000000020d0 f   UefiMemoryAllocationLib:MemoryAllocationLib.obj
+ 0001:00001114       StackCheckFailure          0000000000002114 f   StackCheckLib:StackCheckLibCommonMsvc.obj
+ 0002:00000000       ??_C@_0CO@OAOFPBNK@Stack?5cookie?5check?5failed?5at?5ad@ 0000000000003000     StackCheckLib:StackCheckLibCommonMsvc.obj
+ 0002:00000030       ??_C@_1GG@DIFGBNDA@?$AAT?$AAh?$AAi?$AAs?$AA?5?$AAi?$AAs?$AA?5?$AAM?$AAy?$AA?5?$AAS?$AAy?$AAs?$AAt@ 0000000000003030     BootSelector:SystemManagerDxe.obj
+ 0002:00000098       ??_C@_0O@MLOLIMFM@?$DMnull?5string?$DO@ 0000000000003098     BasePrintLib:PrintLibInternal.obj
+ 0002:000000a8       ??_C@_0M@BJJDNPHK@?$DMnull?5guid?$DO@ 00000000000030a8     BasePrintLib:PrintLibInternal.obj
+ 0002:000000b8       ??_C@_0DB@PMLHLBMO@?$CF08x?9?$CF04x?9?$CF04x?9?$CF02x?$CF02x?9?$CF02x?$CF02@ 00000000000030b8     BasePrintLib:PrintLibInternal.obj
+ 0002:000000f0       ??_C@_0M@LHGBCIKM@?$DMnull?5time?$DO@ 00000000000030f0     BasePrintLib:PrintLibInternal.obj
+ 0002:00000100       ??_C@_0BK@FCPKCIDD@?$CF02d?1?$CF02d?1?$CF04d?5?5?$CF02d?3?$CF02d@ 0000000000003100     BasePrintLib:PrintLibInternal.obj
+ 0002:0000011c       ??_C@_04JIMNDDED@?$CF08X@  000000000000311c     BasePrintLib:PrintLibInternal.obj
+ 0002:00000124       ??_C@_02PCIJFNDE@?$AN?6@   0000000000003124     BasePrintLib:PrintLibInternal.obj
+ 0002:00000128       ??_C@_01LIIJDEN@?$AN@      0000000000003128     BasePrintLib:PrintLibInternal.obj
+ 0002:00000130       mWarningString             0000000000003130     BasePrintLib:PrintLibInternal.obj
+ 0002:00000200       mErrorString               0000000000003200     BasePrintLib:PrintLibInternal.obj
+ 0002:000004e0       mHexStr                    00000000000034e0     BasePrintLib:PrintLibInternal.obj
+ 0002:00000544       __volatile_metadata        0000000000003544     <linker-defined>
+ 0003:00000000       __security_cookie          0000000000004000     StackCheckLib:StackCheckLibCommonMsvc.obj
+ 0003:00000008       gST                        0000000000004008     UefiBootServicesTableLib:UefiBootServicesTableLib.obj
+ 0003:00000010       gBS                        0000000000004010     UefiBootServicesTableLib:UefiBootServicesTableLib.obj
+ 0003:00000018       gImageHandle               0000000000004018     UefiBootServicesTableLib:UefiBootServicesTableLib.obj
+ 0003:00000020       gRT                        0000000000004020     UefiRuntimeServicesTableLib:UefiRuntimeServicesTableLib.obj
+
+ entry point at        0001:00000034
+
+ Static symbols
+
+ 0003:00000028       mDeadLoopComparator        0000000000004028     BaseLib:CpuDeadLoop.obj
+ 0005:00000000       $unwind$StackCheckFailure  0000000000006000     StackCheckLib:StackCheckLibCommonMsvc.obj
+ 0005:00000000       $unwind$_ModuleEntryPoint  0000000000006000     UefiDriverEntryPoint:DriverEntryPoint.obj
+ 0005:00000008       $unwind$InternalPrint      0000000000006008     UefiLib:UefiLibPrint.obj
+ 0005:0000001c       $unwind$Print              000000000000601c     UefiLib:UefiLibPrint.obj
+ 0005:00000024       $unwind$CpuDeadLoop        0000000000006024     BaseLib:CpuDeadLoop.obj
+ 0005:0000002c       $unwind$BasePrintLibSPrintMarker 000000000000602c     BasePrintLib:PrintLibInternal.obj
+ 0005:00000050       $unwind$BasePrintLibSPrint 0000000000006050     BasePrintLib:PrintLibInternal.obj
+ 0005:00000058       $unwind$InternalAllocatePool 0000000000006058     UefiMemoryAllocationLib:MemoryAllocationLib.obj

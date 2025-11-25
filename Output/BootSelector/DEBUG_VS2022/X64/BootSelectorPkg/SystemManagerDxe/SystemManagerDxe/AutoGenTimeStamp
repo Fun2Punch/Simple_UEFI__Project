@@ -1,0 +1,17 @@
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckFailureHookLibNull\StackCheckFailureHookLibNull.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\BaseMemoryLib\BaseMemoryLib.inf
+C:\Simple-UEFI-Project\edk2\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe.c
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\BaseDebugLibNull\BaseDebugLibNull.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\UefiMemoryAllocationLib\UefiMemoryAllocationLib.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\BaseLib\BaseLib.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\UefiLib\UefiLib.inf
+C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe\DEBUG\AutoGen.h
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\RegisterFilterLibNull\RegisterFilterLibNull.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\UefiBootServicesTableLib\UefiBootServicesTableLib.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\BasePrintLib\BasePrintLib.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\BasePcdLibNull\BasePcdLibNull.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckLib\StackCheckLib.inf
+C:\Simple-UEFI-Project\edk2\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\UefiDriverEntryPoint\UefiDriverEntryPoint.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\UefiRuntimeServicesTableLib\UefiRuntimeServicesTableLib.inf

@@ -1,0 +1,3 @@
+gCommandLineDefines: {'ARCH': 'X64'}
+BuildOptionPcd: []
+Active Platform: C:\Simple-UEFI-Project\edk2\BootSelectorPkg\BootSelectorPkg.dsc

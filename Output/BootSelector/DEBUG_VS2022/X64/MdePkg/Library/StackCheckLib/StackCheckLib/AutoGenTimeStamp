@@ -1,0 +1,6 @@
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckLib\StackCheckLibCommonGcc.c
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckLib\IA32\StackCookieInterrupt.nasm
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckLib\X64\CheckCookieMsvc.nasm
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckLib\StackCheckLib.inf
+C:\Simple-UEFI-Project\edk2\MdePkg\Library\StackCheckLib\StackCheckLibCommonMsvc.c
+C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\DEBUG\AutoGen.h

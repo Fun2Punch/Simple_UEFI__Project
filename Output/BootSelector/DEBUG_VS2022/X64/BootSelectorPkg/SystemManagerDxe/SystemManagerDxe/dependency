@@ -1,0 +1,11 @@
+
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe\OUTPUT\AutoGen.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe\OUTPUT\AutoGen.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe\OUTPUT\SystemManagerDxe.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\BootSelectorPkg\SystemManagerDxe\SystemManagerDxe\OUTPUT\SystemManagerDxe.c.deps
+!ENDIF
+
+               

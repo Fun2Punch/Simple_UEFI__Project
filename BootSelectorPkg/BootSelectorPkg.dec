@@ -1,0 +1,11 @@
+[Defines]
+  DEC_SPECIFICATION              = 0x00010005
+  PACKAGE_NAME                   = BootSelectorPkg
+  PACKAGE_GUID                   = 0D25C9FE-12FE-4918-A62F-BC941777C006
+  PACKAGE_VERSION                = 0.1
+
+[Includes]
+  Include
+
+[LibraryClasses]
+  SystemManagementLib|Include/Library/SystemManagementLib.h

@@ -1,0 +1,71 @@
+
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\CompareMemWrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\CompareMemWrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\CopyMem.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\CopyMem.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\CopyMemWrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\CopyMemWrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\IsZeroBufferWrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\IsZeroBufferWrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\MemLibGeneric.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\MemLibGeneric.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\MemLibGuid.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\MemLibGuid.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem16Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem16Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem32Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem32Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem64Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem64Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem8Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ScanMem8Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem16Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem16Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem32Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem32Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem64Wrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMem64Wrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMemNWrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMemNWrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMemWrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\SetMemWrapper.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ZeroMemWrapper.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseMemoryLib\BaseMemoryLib\OUTPUT\ZeroMemWrapper.c.deps
+!ENDIF
+
+               

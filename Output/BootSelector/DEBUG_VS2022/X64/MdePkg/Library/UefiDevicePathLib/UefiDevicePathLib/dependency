@@ -1,0 +1,23 @@
+
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathFromText.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathFromText.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathToText.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathToText.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilities.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilities.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilitiesDxeSmm.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\DevicePathUtilitiesDxeSmm.c.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\UefiDevicePathLib.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiDevicePathLib\UefiDevicePathLib\OUTPUT\UefiDevicePathLib.c.deps
+!ENDIF
+
+               

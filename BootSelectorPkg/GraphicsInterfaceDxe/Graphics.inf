@@ -1,0 +1,34 @@
+## @file
+#  Graphics Driver
+#
+#  Copyright (c) 2025
+#
+##
+
+[Defines]
+  INF_VERSION                    = 1.0
+  BASE_NAME                      = Graphics
+  FILE_GUID                      = 1BB71A0A-9C9C-46EE-8426-A5EBB73812A4
+  MODULE_TYPE                    = DXE_DRIVER
+  VERSION_STRING                 = 1.0
+  ENTRY_POINT                    = GraphicsSetupEntry
+
+[Source]
+  Graphics.c
+
+[Packages]
+  MdePkg|edk2/MdePkg/MdePkg.dec
+  MdeMoudlePkg|edk2/MdeMoudlePkg/MdeModulePkg.dec
+
+[LibraryClasses]
+  BaseLib
+  DebugLib
+  UefiBootServicesTableLib
+  UefiDriverEntryPoint
+  UefiLib
+
+[Includes]
+  Include
+
+[Protocols]
+  

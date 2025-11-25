@@ -1,0 +1,1 @@
+C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiBootServicesTableLib\UefiBootServicesTableLib\Makefile

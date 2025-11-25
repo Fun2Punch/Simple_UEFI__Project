@@ -1,0 +1,13 @@
+/IC:\Simple-UEFI-Project\edk2\MdePkg\Library\BaseLib\X64
+/IC:\Simple-UEFI-Project\edk2\MdePkg\Library\BaseLib
+/IC:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\BaseLib\BaseLib\DEBUG
+/IC:\Simple-UEFI-Project\edk2\MdePkg
+/IC:\Simple-UEFI-Project\edk2\MdePkg\Include
+/IC:\Simple-UEFI-Project\edk2\MdePkg\Test\UnitTest\Include
+/IC:\Simple-UEFI-Project\edk2\MdePkg\Test\Mock\Include
+/IC:\Simple-UEFI-Project\edk2\MdePkg\Include\X64
+/IC:\Simple-UEFI-Project\edk2\MdeModulePkg
+/IC:\Simple-UEFI-Project\edk2\MdeModulePkg\Include
+/IC:\Simple-UEFI-Project\edk2\MdeModulePkg\Test\Mock\Include
+/IC:\Simple-UEFI-Project\edk2\BootSelectorPkg
+/IC:\Simple-UEFI-Project\edk2\BootSelectorPkg\Include

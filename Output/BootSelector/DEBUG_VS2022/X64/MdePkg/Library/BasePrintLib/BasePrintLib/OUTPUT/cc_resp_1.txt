@@ -1,0 +1,1 @@
+  C:\Simple-UEFI-Project\edk2\MdePkg\Library\BasePrintLib\PrintLibInternal.c C:\Simple-UEFI-Project\edk2\MdePkg\Library\BasePrintLib\PrintLib.c

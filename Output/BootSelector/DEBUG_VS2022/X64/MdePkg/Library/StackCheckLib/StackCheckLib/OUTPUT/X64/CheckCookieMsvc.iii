@@ -1,0 +1,43 @@
+;------------------------------------------------------------------------------
+; X64/CheckCookieMsvc.nasm
+;
+; Copyright (c) Microsoft Corporation.
+; SPDX-License-Identifier: BSD-2-Clause-Patent
+;------------------------------------------------------------------------------
+
+    DEFAULT REL
+    SECTION .text
+
+extern StackCheckFailure
+extern __security_cookie
+extern CpuDeadLoop
+
+; Called when a buffer check fails. This functionality is dependent on MSVC
+; C runtime libraries and so is unsupported in UEFI.
+global __report_rangecheckfailure
+__report_rangecheckfailure:
+    jmp CpuDeadLoop
+    ret
+
+; The GS handler is for checking the stack cookie during SEH or
+; EH exceptions and is unsupported in UEFI.
+global __GSHandlerCheck
+__GSHandlerCheck:
+    jmp CpuDeadLoop
+    ret
+
+;------------------------------------------------------------------------------
+; Checks the stack cookie value against __security_cookie and calls the
+; stack cookie failure handler if there is a mismatch.
+;
+; void
+; __cdecl
+; __security_check_cookie (
+;    UINTN CheckValue
+;   );
+;------------------------------------------------------------------------------
+global __security_check_cookie
+__security_check_cookie:
+    cmp    rcx, [__security_cookie]
+    jne    StackCheckFailure
+    ret

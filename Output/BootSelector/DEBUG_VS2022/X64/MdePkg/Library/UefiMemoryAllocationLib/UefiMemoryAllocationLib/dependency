@@ -1,0 +1,7 @@
+
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiMemoryAllocationLib\UefiMemoryAllocationLib\OUTPUT\MemoryAllocationLib.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\UefiMemoryAllocationLib\UefiMemoryAllocationLib\OUTPUT\MemoryAllocationLib.c.deps
+!ENDIF
+
+               

@@ -1,0 +1,15 @@
+
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\OUTPUT\IA32\StackCookieInterrupt.nasm.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\OUTPUT\IA32\StackCookieInterrupt.nasm.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\OUTPUT\X64\CheckCookieMsvc.nasm.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\OUTPUT\X64\CheckCookieMsvc.nasm.deps
+!ENDIF
+
+!IF EXIST(C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\OUTPUT\StackCheckLibCommonMsvc.c.deps)
+!INCLUDE C:\Simple-UEFI-Project\edk2\Output\BootSelector\DEBUG_VS2022\X64\MdePkg\Library\StackCheckLib\StackCheckLib\OUTPUT\StackCheckLibCommonMsvc.c.deps
+!ENDIF
+
+               
