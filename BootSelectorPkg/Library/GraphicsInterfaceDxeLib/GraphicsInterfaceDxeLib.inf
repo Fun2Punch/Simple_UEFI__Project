@@ -1,0 +1,29 @@
+## @file
+#  Graphics Driver
+#
+#  Copyright (c) 2025
+#
+##
+
+[Defines]
+  INF_VERSION                    = 0x00010005
+  BASE_NAME                      = Graphics
+  FILE_GUID                      = 1BB71A0A-9C9C-46EE-8426-A5EBB73812A4
+  MODULE_TYPE                    = DXE_DRIVER
+  VERSION_STRING                 = 1.0
+  ENTRY_POINT                    = GraphicsDxeEntry
+
+[Sources]
+  GraphicsInterfaceDxeLib.c
+
+[LibraryClasses]
+  BaseLib
+  DebugLib
+  UefiBootServicesTableLib
+  UefiDriverEntryPoint
+  UefiLib
+
+[Protocols]
+
+[Depex]
+  TRUE

@@ -1,0 +1,38 @@
+## @file
+#  BootSelector Main Driver
+#
+#  Copyright (c) 2025
+#
+##
+
+[Defines]
+  INF_VERSION                    = 0x00010005
+  BASE_NAME                      = BootSelector
+  FILE_GUID                      = 0E49055D-3B02-46D4-B3A2-DC9C794AE41C
+  MODULE_TYPE                    = DXE_DRIVER
+  VERSION_STRING                 = 1.0
+  ENTRY_POINT                    = SystemManagementEntry
+
+[Sources]
+  SystemManagementDxeLib.c
+
+[LibraryClasses]
+  BaseLib
+  DebugLib
+  UefiBootServicesTableLib
+  UefiDriverEntryPoint
+  UefiLib
+  PcdLib
+  BaseMemoryLib
+  MemoryAllocationLib
+  DevicePathLib
+  UefiRuntimeServicesTableLib
+  StackCheckLib
+  StackCheckFailureHookLib
+  RegisterFilterLib
+  PrintLib
+
+[Protocols]
+
+[Depex]
+  TRUE
